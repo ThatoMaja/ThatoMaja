@@ -23,7 +23,7 @@
 <h2>👨‍💻 Tech Projects:</h2>
 <ul>
   <li><b>AfriLink: C2C E-Commerce Platform (Full Stack)</b><br/>
-    <a href="https://github.com/thatomaja/afrilink-ecommerce">PHP, MySQL, HTML/CSS, JS | Fully functional marketplace like Takealot/Amazon.</a>
+    <a href="https://github.com/ThatoMaja/afrlink-ecommerce.git">PHP, MySQL, HTML/CSS, JS | Fully functional marketplace like Takealot/Amazon.</a>
   </li>
 
   <li><b>Student Grade Calculator</b><br/>
