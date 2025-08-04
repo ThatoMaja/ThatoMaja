@@ -61,7 +61,7 @@
 
 <h2>📄 Education</h2>
 <ul>
-  <li>BSc IT - Software Engineering | Eduvos | 2023 – 2026</li>
+  <li>BSc IT - Software Engineering | Eduvos | 2023 – 2025</li>
 </ul>
 
 <h2>🤝 Connect with Me:</h2>
