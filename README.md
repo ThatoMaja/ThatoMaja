@@ -51,7 +51,7 @@
   </li>
 
   <li><b>Social Media Connections Manager</b><br/>
-    <a href="https://github.com/thatomaja/Social-MAedia-Connections-Manager">Python, Graphs | Models users and connections using graph theory & OOP.</a>
+    <a href="https://github.com/thatomaja/Social-Media-Connections-Manager">Python, Graphs | Models users and connections using graph theory & OOP.</a>
   </li>
 
   <li><b>Loan & Simple Interest Calculator (Android)</b><br/>
