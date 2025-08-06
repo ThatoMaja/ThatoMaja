@@ -43,7 +43,7 @@
   </li>
 
   <li><b>Income Tax Calculator</b><br/>
-    <a href="https://github.com/thatomaja/tax-calculator">Python, Tkinter | GUI-based tax calculator using SARS 2024 tax brackets.</a>
+    <a href="https://github.com/thatomaja/Income-Tax-Calculator">Python, Tkinter | GUI-based tax calculator using SARS 2024 tax brackets.</a>
   </li>
 
   <li><b>ER Visit Scheduler</b><br/>
