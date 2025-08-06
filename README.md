@@ -27,19 +27,19 @@
   </li>
 
   <li><b>Student Grade Calculator</b><br/>
-    <a href="https://github.com/thatomaja/student-grade-calculator">Python, CSV, Threading | Weighted grade calculation with UI, CSV import, and testing.</a>
+    <a href="https://github.com/thatomaja/Student-Grade-Calculator">Python, CSV, Threading | Weighted grade calculation with UI, CSV import, and testing.</a>
   </li>
 
   <li><b>Tablet Purchase Finance Calculator (Android)</b><br/>
-    <a href="https://github.com/thatomaja/tablet-finance-calculator">Android app for calculating monthly tablet payments with UI validation.</a>
+    <a href="https://github.com/thatomaja/Tablet-Purchase-Finance-Calculator">Android app for calculating monthly tablet payments with UI validation.</a>
   </li>
 
   <li><b>Grade Calculator App (Android)</b><br/>
-    <a href="https://github.com/thatomaja/grade-calculator-app">Calculates student grades with input validation and live feedback (Java, XML).</a>
+    <a href="https://github.com/thatomaja/Android-Grade-Calculator">Calculates student grades with input validation and live feedback (Java, XML).</a>
   </li>
 
   <li><b>Retail Inventory Manager</b><br/>
-    <a href="https://github.com/thatomaja/inventory-manager">Python CLI + SQLite | Track stock, perform CRUD, validate inventory in real-time.</a>
+    <a href="https://github.com/thatomaja/Retail-Inventory-Manager">Python CLI + SQLite | Track stock, perform CRUD, validate inventory in real-time.</a>
   </li>
 
   <li><b>Income Tax Calculator</b><br/>
@@ -47,15 +47,15 @@
   </li>
 
   <li><b>ER Visit Scheduler</b><br/>
-    <a href="https://github.com/thatomaja/er-visit-scheduler">Python | Priority queue to manage emergency room visits by critical level.</a>
+    <a href="https://github.com/thatomaja/ER-Visit-Scheduler">Python | Priority queue to manage emergency room visits by critical level.</a>
   </li>
 
   <li><b>Social Media Connections Manager</b><br/>
-    <a href="https://github.com/thatomaja/social-network-graph">Python, Graphs | Models users and connections using graph theory & OOP.</a>
+    <a href="https://github.com/thatomaja/Social-MAedia-Connections-Manager">Python, Graphs | Models users and connections using graph theory & OOP.</a>
   </li>
 
   <li><b>Loan & Simple Interest Calculator (Android)</b><br/>
-    <a href="https://github.com/thatomaja/simple-interest-calculator">Menu-driven Android app for interest and repayment calculations.</a>
+    <a href="https://github.com/thatomaja/Simple-Interest-And-Loan-Repayment-Calculator-For-Toy-Store">Menu-driven Android app for interest and repayment calculations.</a>
   </li>
 </ul>
 
