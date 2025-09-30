@@ -4,7 +4,7 @@
 <h2> About Me</h2>
 <p>I'm a passionate and curious software engineering student at Eduvos, currently in my third year. I love building practical solutions, exploring full-stack development and turning complex problems into clean, efficient code. My goal is to become a well-rounded software engineer with strong foundations in both front and back-end systems. I thrive on learning new technologies and applying them in real-world projects. I’m open and eager to explore a wide range of tech roles - whether it’s Software Engineering, Business Analysis, Data Analysis or related fields </p>
 
-<h2>🛠️ Skills & Tech Stack</h2>
+<h2>Skills & Tech Stack</h2>
 <ul>
   <li><b>Languages:</b> Python, PHP, JavaScript, HTML, CSS, XML</li>
   <li><b>Frameworks & Libraries:</b> Android SDK, Tkinter, Bootstrap</li>
@@ -20,7 +20,7 @@
   
 </ul>
 
-<h2>👨‍💻 Tech Projects:</h2>
+<h2>Tech Projects:</h2>
 <ul>
   <li><b>AfriLink: C2C E-Commerce Platform (Full Stack)</b><br/>
     <a href="https://github.com/ThatoMaja/afrlink-ecommerce.git">PHP, MySQL, HTML/CSS, JS | Fully functional marketplace like Takealot/Amazon.</a>
