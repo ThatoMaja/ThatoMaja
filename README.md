@@ -26,6 +26,19 @@
     <a href="https://github.com/ThatoMaja/afrlink-ecommerce.git">PHP, MySQL, HTML/CSS, JS | Fully functional marketplace like Takealot/Amazon.</a>
   </li>
 
+  <li><b>Multi-threaded Sensor Aggreggation System</b><br/>
+    <a href="https://github.com/thatomaja/A-Python-Program-to-Simulate-Sensor-Aggregation">Python, Threading, Lock | Simulates concurrent data collection, distributes readings among capacity-limited aggregators and implements thread safety with locks to prevent race conditions.</a>
+  </li>
+
+  <li><b>Task Management System (Design Patterns)</b><br/>
+    <a href="https://github.com/thatomaja/Task-Management-System-using-Design-Patterns">Python, OOP | Implements a system for dynamic task creation/assignment using the Factory Method, notifies users of status changes via the Observer Pattern and ensures a single central manager using Singleton.</a>
+  </li>
+
+   <li><b>Student Management Microservice</b><br/>
+    <a href="https://github.com/thatomaja/Student-Management-Microservice-">Python, CLI, Logging | A console-based microservice that manages student data (CRUD), tracks operations with logging, demonstrating independence within a Microservices Architecture.</a>
+  </li>
+
+
   <li><b>Student Grade Calculator</b><br/>
     <a href="https://github.com/thatomaja/Student-Grade-Calculator">Python, CSV, Threading | Weighted grade calculation with UI, CSV import, and testing.</a>
   </li>
