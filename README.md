@@ -59,11 +59,11 @@
   </li>
 </ul>
 
-<h2>📄 Education</h2>
+<h2>Education</h2>
 <ul>
   <li>BSc IT - Software Engineering | Eduvos | 2023 – 2025</li>
 </ul>
 
-<h2>🤝 Connect with Me:</h2>
+<h2>Connect with Me:</h2>
 <p>Email: <b>thatomaja5@gmail.com</b></p>
 <p>LinkedIn: <a href="https://linkedin.com/in/thato-maja-1a7a04235">linkedin.com/in/thato-maja-1a7a04235</a></p>
