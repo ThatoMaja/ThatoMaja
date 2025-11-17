@@ -27,7 +27,7 @@
   </li>
 
   <li><b>Edu-Carpool</b><br/>
-    <a href="https://github.com/thatomaja/Edu-Carpool">Android, Java, Supabase | A database-driven carpool app that matches students based on proximity, schedules, and preferences.</a>
+    <a href="https://github.com/ThatoMaja/EduCarpool ">Android, Java, Supabase | A database-driven carpool app that matches students based on proximity, schedules, and preferences.</a>
   </li>
 
   <li><b>Multi-threaded Sensor Aggreggation System</b><br/>
