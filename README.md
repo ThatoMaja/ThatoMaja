@@ -10,13 +10,31 @@
   <li><b>Frameworks & Libraries:</b> Android SDK, Tkinter, Bootstrap</li>
   <li><b>Databases:</b> SQLite, MongoDB, Oracle DB, SQL, Neo4j, Supabase  </li>
   <li><b>Tools & Platforms:</b> GitHub, VS Code, Android Studio, Draw.IO, Windows Server, Packet Tracer</li>
-  <li><b>Concepts:</b> OOP, Threading, UI/UX Design, Data Structures & Algorithms, SQL Queries, CRUD operations, Software Process, Network Security, Mobile App Dev & BIG Data, CompTIA</li>
+  <li><b>Concepts:</b> OOP, Threading, UI/UX Design, Data Structures & Algorithms, SQL Queries, CRUD operations, Software Process, Network Security, Mobile App Dev & BIG Data, CompTIA, Enterprise Programming In Python, Mobile Application and Web Services </li>
+
+
+<p>
+ <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24" height="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="24" height="24"/>
+  <img src="https://logo.svgcdn.com/logos/supabase-icon.png" width="24" height="24" />
+
+
+
+  
 </ul>
 
 <h2> Currently Learning</h2>
 <ul>
-  <li>Enterprise Programming In Python</li>
-  <li>Mobile Application and Web Services (Android Studio App Project)t</li>
+  <li>Java</li>
+  
   
 </ul>
 
