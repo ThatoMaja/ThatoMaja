@@ -26,6 +26,10 @@
     <a href="https://github.com/ThatoMaja/afrlink-ecommerce.git">PHP, MySQL, HTML/CSS, JS | Fully functional marketplace like Takealot/Amazon.</a>
   </li>
 
+  <li><b>Edu-Carpool</b><br/>
+    <a href="https://github.com/thatomaja/Edu-Carpool">Android, Java, Supabase | A database-driven carpool app that matches students based on proximity, schedules, and preferences.</a>
+  </li>
+
   <li><b>Multi-threaded Sensor Aggreggation System</b><br/>
     <a href="https://github.com/thatomaja/A-Python-Program-to-Simulate-Sensor-Aggregation">Python, Threading, Lock | Simulates concurrent data collection, distributes readings among capacity-limited aggregators and implements thread safety with locks to prevent race conditions.</a>
   </li>
