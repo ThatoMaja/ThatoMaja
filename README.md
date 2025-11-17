@@ -34,6 +34,7 @@
 <h2> Currently Learning</h2>
 <ul>
   <li>Java</li>
+  <li>Android Development</li>
   
   
 </ul>
