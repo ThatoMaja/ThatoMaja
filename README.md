@@ -8,7 +8,7 @@
 <ul>
   <li><b>Languages:</b> Python, PHP, JavaScript, HTML, CSS, XML</li>
   <li><b>Frameworks & Libraries:</b> Android SDK, Tkinter, Bootstrap</li>
-  <li><b>Databases:</b> SQLite, MongoDB, Oracle DB, SQL, Neo4j  </li>
+  <li><b>Databases:</b> SQLite, MongoDB, Oracle DB, SQL, Neo4j, Supabase  </li>
   <li><b>Tools & Platforms:</b> GitHub, VS Code, Android Studio, Draw.IO, Windows Server, Packet Tracer</li>
   <li><b>Concepts:</b> OOP, Threading, UI/UX Design, Data Structures & Algorithms, SQL Queries, CRUD operations, Software Process, Network Security, Mobile App Dev & BIG Data, CompTIA</li>
 </ul>
