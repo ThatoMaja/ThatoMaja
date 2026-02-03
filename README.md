@@ -1,5 +1,5 @@
 <h1>Hi, I'm Thato Maja!<br/>
-<a href="https://github.com/thatomaja">Software Engineering Student | 3rd Year</a></h1>
+<a href="https://github.com/thatomaja">Software Engineering Graduate </a></h1>
 
 <h2> About Me</h2>
 <p>I'm a passionate and curious software engineering student at Eduvos, currently in my third year. I love building practical solutions, exploring full-stack development and turning complex problems into clean, efficient code. My goal is to become a well-rounded software engineer with strong foundations in both front and back-end systems. I thrive on learning new technologies and applying them in real-world projects. I’m open and eager to explore a wide range of tech roles - whether it’s Software Engineering, Business Analysis, Data Analysis or related fields </p>
