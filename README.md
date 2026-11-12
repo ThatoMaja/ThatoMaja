@@ -1,105 +1,246 @@
-<h1>Hi, I'm Thato Maja!<br/>
-<a href="https://github.com/thatomaja">Software Engineering Graduate </a></h1>
+# Hi, I'm Thato Maja! 
 
-<h2> About Me</h2>
-<p>I'm a passionate and curious software engineering student at Eduvos, currently in my third year. I love building practical solutions, exploring full-stack development and turning complex problems into clean, efficient code. My goal is to become a well-rounded software engineer with strong foundations in both front and back-end systems. I thrive on learning new technologies and applying them in real-world projects. I’m open and eager to explore a wide range of tech roles - whether it’s Software Engineering, Business Analysis, Data Analysis or related fields </p>
-
-<h2>Skills & Tech Stack</h2>
-<ul>
-  <li><b>Languages:</b> Python, PHP, JavaScript, HTML, CSS, XML</li>
-  <li><b>Frameworks & Libraries:</b> Android SDK, Tkinter, Bootstrap</li>
-  <li><b>Databases:</b> SQLite, MongoDB, Oracle DB, SQL, Neo4j, Supabase  </li>
-  <li><b>Tools & Platforms:</b> GitHub, VS Code, Android Studio, Draw.IO, Windows Server, Packet Tracer</li>
-  <li><b>Concepts:</b> OOP, Threading, UI/UX Design, Data Structures & Algorithms, SQL Queries, CRUD operations, Software Process, Network Security, Mobile App Dev & BIG Data, CompTIA, Enterprise Programming In Python, Mobile Application and Web Services </li>
-
+<h1>Software Engineering Graduate</h1>
 
 <p>
- <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24" height="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="24" height="24"/>
-  <img src="https://logo.svgcdn.com/logos/supabase-icon.png" width="24" height="24" />
+  <a href="https://thatomaja.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-ff69b4?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/ThatoMaja">
+    <img src="https://img.shields.io/badge/GitHub-ThatoMaja-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thato-maja-1a7a04235">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
 
+## About Me
 
-  
-</ul>
+I'm a Software Engineering graduate (Cum Laude) with a BSc in Information Technology and a Bachelor of Commerce in Law from Eduvos.
 
-<h2> Currently Learning</h2>
-<ul>
-  <li>Java</li>
-  <li>Android Development</li>
-  
-  
-</ul>
+Currently working as a **Software Developer Intern at Xiquel Group**, where I gain hands-on experience in enterprise application development, SQL development, database management, automated reporting and data retrieval.
 
-<h2>Tech Projects:</h2>
-<ul>
-  <li><b>AfriLink: C2C E-Commerce Platform (Full Stack)</b><br/>
-    <a href="https://github.com/ThatoMaja/afrlink-ecommerce.git">PHP, MySQL, HTML/CSS, JS | Fully functional marketplace like Takealot/Amazon.</a>
-  </li>
+I enjoy building practical solutions, solving technical problems and exploring how technology can address real-world business challenges. My experience includes developing and maintaining enterprise applications using C# and SQL, analysing business requirements, troubleshooting application issues and collaborating within Agile Scrum teams.
 
-  <li><b>Edu-Carpool</b><br/>
-    <a href="https://github.com/ThatoMaja/EduCarpool ">Android, Java, Supabase | A database-driven carpool app that matches students based on proximity, schedules, and preferences.</a>
-  </li>
+I'm particularly interested in Software Engineering, Backend Development, Data Engineering, Data Analysis and Banking Technology. I'm always eager to expand my technical knowledge and contribute to meaningful technology solutions.
 
-  <li><b>Multi-threaded Sensor Aggreggation System</b><br/>
-    <a href="https://github.com/thatomaja/A-Python-Program-to-Simulate-Sensor-Aggregation">Python, Threading, Lock | Simulates concurrent data collection, distributes readings among capacity-limited aggregators and implements thread safety with locks to prevent race conditions.</a>
-  </li>
+## Professional Experience
 
-  <li><b>Task Management System (Design Patterns)</b><br/>
-    <a href="https://github.com/thatomaja/Task-Management-System-using-Design-Patterns">Python, OOP | Implements a system for dynamic task creation/assignment using the Factory Method, notifies users of status changes via the Observer Pattern and ensures a single central manager using Singleton.</a>
-  </li>
+### Software Developer Intern | Xiquel Group
+*February 2026 – Present*
 
-   <li><b>Student Management Microservice</b><br/>
-    <a href="https://github.com/thatomaja/Student-Management-Microservice-">Python, CLI, Logging | A console-based microservice that manages student data (CRUD), tracks operations with logging, demonstrating independence within a Microservices Architecture.</a>
-  </li>
+- Develop and maintain enterprise business applications using C# and SQL.
+- Develop SQL queries for business data retrieval and automated reporting.
+- Contribute to automated leave and timesheet reporting functionality.
+- Analyse business requirements and translate them into technical solutions.
+- Troubleshoot application defects, investigate issues and implement fixes.
+- Support CRM development using the EZRA360 platform.
+- Collaborate with Business Analysts, QA Engineers and Software Developers within Agile Scrum teams.
+- Participate in sprint planning, daily stand-ups, retrospectives and code reviews.
+- Assist with software testing, deployment verification and technical documentation.
 
+## Skills & Tech Stack
 
-  <li><b>Student Grade Calculator</b><br/>
-    <a href="https://github.com/thatomaja/Student-Grade-Calculator">Python, CSV, Threading | Weighted grade calculation with UI, CSV import, and testing.</a>
-  </li>
+**Programming Languages**
+- Python
+- C#
+- C++
+- JavaScript
+- PHP
+- Java
+- HTML & CSS
+- XML
 
-  <li><b>Tablet Purchase Finance Calculator (Android)</b><br/>
-    <a href="https://github.com/thatomaja/Tablet-Purchase-Finance-Calculator">Android app for calculating monthly tablet payments with UI validation.</a>
-  </li>
+**Databases & Data Management**
+- SQL
+- Microsoft SQL Server
+- MySQL
+- Oracle Database
+- MongoDB
+- Neo4j
+- SQLite
+- Supabase
 
-  <li><b>Grade Calculator App (Android)</b><br/>
-    <a href="https://github.com/thatomaja/Android-Grade-Calculator">Calculates student grades with input validation and live feedback (Java, XML).</a>
-  </li>
+**Tools & Platforms**
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- Android Studio
+- Postman
+- EZRA360
+- Lucidchart
+- Packet Tracer
 
-  <li><b>Retail Inventory Manager</b><br/>
-    <a href="https://github.com/thatomaja/Retail-Inventory-Manager">Python CLI + SQLite | Track stock, perform CRUD, validate inventory in real-time.</a>
-  </li>
+**Technical Concepts**
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Multithreading
+- Design Patterns
+- CRUD Operations
+- Database Management
+- SQL Queries
+- Data Retrieval & Automated Reporting
+- Software Development Life Cycle (SDLC)
+- UML & ERD Modelling
+- Debugging & Software Testing
+- Agile Scrum
+- Requirements Analysis
+- Technical Documentation
 
-  <li><b>Income Tax Calculator</b><br/>
-    <a href="https://github.com/thatomaja/Income-Tax-Calculator">Python, Tkinter | GUI-based tax calculator using SARS 2024 tax brackets.</a>
-  </li>
+### Technologies
 
-  <li><b>ER Visit Scheduler</b><br/>
-    <a href="https://github.com/thatomaja/ER-Visit-Scheduler">Python | Priority queue to manage emergency room visits by critical level.</a>
-  </li>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" height="35" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35" height="35" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
+</p>
 
-  <li><b>Social Media Connections Manager</b><br/>
-    <a href="https://github.com/thatomaja/Social-Media-Connections-Manager">Python, Graphs | Models users and connections using graph theory & OOP.</a>
-  </li>
+## Currently Exploring
 
-  <li><b>Loan & Simple Interest Calculator (Android)</b><br/>
-    <a href="https://github.com/thatomaja/Simple-Interest-And-Loan-Repayment-Calculator-For-Toy-Store">Menu-driven Android app for interest and repayment calculations.</a>
-  </li>
-</ul>
+- Microsoft Data Technologies
+- Cloud-Based Data Solutions
+- Backend Development
+- Data Engineering
 
-<h2>Education</h2>
-<ul>
-  <li>BSc IT - Software Engineering | Eduvos | 2023 – 2025</li>
-</ul>
+## Technical Projects
 
-<h2>Connect with Me:</h2>
-<p>Email: <b>thatomaja5@gmail.com</b></p>
-<p>LinkedIn: <a href="https://linkedin.com/in/thato-maja-1a7a04235">linkedin.com/in/thato-maja-1a7a04235</a></p>
+### 1. AfriLink – C2C E-Commerce Platform
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+
+A full-stack e-commerce marketplace inspired by platforms such as Takealot and Amazon.
+
+- Developed user authentication and role-based access.
+- Implemented product listings, image uploads, reviews and shopping cart functionality.
+- Designed and managed a relational MySQL database.
+- Implemented database interactions and data management functionality.
+
+[View Project](https://github.com/ThatoMaja/afrlink-ecommerce)
+
+### 2. Edu-Carpool – Android Ride-Sharing Application
+**Technologies:** Java, Android, XML, Supabase
+
+A database-driven mobile application designed to connect students travelling to similar destinations.
+
+- Implemented user registration and trip scheduling.
+- Developed ride-matching functionality based on proximity, schedules and preferences.
+- Integrated Supabase for backend data management.
+- Designed mobile interfaces and application workflows.
+
+[View Project](https://github.com/ThatoMaja/EduCarpool)
+
+### 3. Multi-threaded Sensor Aggregation System
+**Technologies:** Python, Threading, Locks
+
+- Simulated concurrent sensor data collection.
+- Distributed readings across capacity-limited aggregators.
+- Implemented thread safety using locks to prevent race conditions.
+
+[View Project](https://github.com/ThatoMaja/A-Python-Program-to-Simulate-Sensor-Aggregation)
+
+### 4. Task Management System – Design Patterns
+**Technologies:** Python, OOP, Design Patterns
+
+- Implemented Factory Method, Observer and Singleton design patterns.
+- Developed dynamic task creation and assignment functionality.
+- Implemented notifications for task status changes.
+
+[View Project](https://github.com/ThatoMaja/Task-Management-System-using-Design-Patterns)
+
+### 5. Student Management Microservice
+**Technologies:** Python, CLI, Logging
+
+- Developed a console-based student management application.
+- Implemented CRUD operations and activity logging.
+- Demonstrated modular application design and microservice concepts.
+
+[View Project](https://github.com/ThatoMaja/Student-Management-Microservice-)
+
+### 6. Student Grade Calculator
+**Technologies:** Python, CSV, Threading
+
+- Developed a grade calculation application with weighted grading functionality.
+- Implemented CSV data importing and processing.
+- Incorporated threading and testing functionality.
+
+[View Project](https://github.com/ThatoMaja/Student-Grade-Calculator)
+
+### 7. Tablet Purchase Finance Calculator – Android
+
+Android application for calculating monthly tablet payments with input validation.
+
+[View Project](https://github.com/ThatoMaja/Tablet-Purchase-Finance-Calculator)
+
+### 8. Grade Calculator App – Android
+
+Java and XML application that calculates student grades with input validation and live feedback.
+
+[View Project](https://github.com/ThatoMaja/Android-Grade-Calculator)
+
+### 9. Retail Inventory Manager
+**Technologies:** Python, SQLite
+
+- Developed an inventory management application.
+- Implemented stock tracking and CRUD operations.
+- Included real-time inventory validation.
+
+[View Project](https://github.com/ThatoMaja/Retail-Inventory-Manager)
+
+### 10. Income Tax Calculator
+**Technologies:** Python, Tkinter
+
+GUI-based income tax calculator using SARS 2024 tax brackets.
+
+[View Project](https://github.com/ThatoMaja/Income-Tax-Calculator)
+
+### 11. ER Visit Scheduler
+**Technologies:** Python, Priority Queues
+
+Uses priority queues to manage emergency room visits based on critical levels.
+
+[View Project](https://github.com/ThatoMaja/ER-Visit-Scheduler)
+
+### 12. Social Media Connections Manager
+**Technologies:** Python, Graphs, OOP
+
+Models social networks and user connections using graph theory and object-oriented programming.
+
+[View Project](https://github.com/ThatoMaja/Social-Media-Connections-Manager)
+
+### 13. Loan & Simple Interest Calculator – Android
+
+Menu-driven Android application for calculating loan repayments and simple interest.
+
+[View Project](https://github.com/ThatoMaja/Simple-Interest-And-Loan-Repayment-Calculator-For-Toy-Store)
+
+## Education
+
+**BSc Information Technology – Software Engineering**  
+Eduvos | 2023 – 2025  
+Graduated November 2025 | Cum Laude
+
+## Connect With Me
+
+I'm always open to connecting with fellow developers, technology professionals and recruiters.
+
+- **Portfolio:** [thatomaja.netlify.app](https://thatomaja.netlify.app/)
+- **Email:** [thatomaja5@gmail.com](mailto:thatomaja5@gmail.com)
+- **LinkedIn:** [Thato Maja](https://www.linkedin.com/in/thato-maja-1a7a04235)
+- **GitHub:** [ThatoMaja](https://github.com/ThatoMaja)
+
+---
+
+<p align="center">
+  <i>Building, learning and growing through technology. </i>
+</p>
